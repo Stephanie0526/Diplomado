@@ -1,0 +1,12 @@
+# Entornos virtuales
+.venv/
+venv/
+_pycache__/
+
+# Archivos del sistema operativo y visual code
+
+.DS_Store
+.vscode/
+
+#Datos `pesados locales (los datos se descargan o documentan, no sesuben al repo si pesan mucho)
+#TODO Hacer mas selectivo 
